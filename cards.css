@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    margin-top: 150px;
+    background-color: darkgreen;
+    color: azure;
+    
+}
+h1{
+    color: rgb(238, 175, 15);
+}
+button{
+    color: darkgreen;
+    width: 150px;
+    background-color: darkgoldenrod;
+    padding-top: 3px;
+    padding-bottom:3px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bolder;
+    margin-top: 2px;
+    text-decoration: solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#messagel{
+    font-style: italic;
+}
+#button1{
+    margin-bottom: 5px;
+}
+button:hover{
+    transition: 1s;
+    color: antiquewhite;
+}
